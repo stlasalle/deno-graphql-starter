@@ -1,0 +1,7 @@
+{
+  "deno.enable": true,
+  "deno.codeLens.implementations": true,
+  "deno.lint": true,
+  "deno.path": "~/.deno/bin/deno",
+  "deno.unstable": false
+}
